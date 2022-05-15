@@ -26,3 +26,8 @@ body {
     overflow: auto;
 }
 
+/* Button style */
+section {
+    padding: 20px;
+}
+
