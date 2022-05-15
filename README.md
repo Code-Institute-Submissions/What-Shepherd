@@ -50,5 +50,5 @@ Live link -
 ### Content
 - The header image is from www.rawpixel.com
 - The font is from https://fonts.google.com/
-- 
-
+- JavaScript code was referenced from this post https://stackoverflow.com/questions/36921415/score-in-a-javascript-quiz and is also cited in the JavaScript comments
+- ReadMe layout based on the Love Maths example
