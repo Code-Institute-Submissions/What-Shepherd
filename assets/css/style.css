@@ -1,0 +1,19 @@
+/* Logo style */
+.logo {
+    width: 50%;
+    height: 50%;
+}
+
+/* body style */
+body {
+    color: lightgray;
+    font-family: "Kanit", sans-serif;
+    font-size: 15px;
+}
+
+#container {
+    width: 60vw;
+    background: lightgrey;
+    color: black;
+    margin: 30px auto;
+}
