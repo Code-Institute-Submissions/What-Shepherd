@@ -47,3 +47,8 @@ Live link -
 
 ## Credits
 
+### Content
+- The header image is from www.rawpixel.com
+- The font is from https://fonts.google.com/
+- 
+
