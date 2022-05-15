@@ -4,6 +4,11 @@
     height: 50%;
 }
 
+/* Header area */
+header {
+    text-align: center;
+}
+
 /* body style */
 body {
     color: lightgray;
@@ -11,9 +16,13 @@ body {
     font-size: 15px;
 }
 
+/* Quiz area */
 #container {
+    border-radius: 25px;
     width: 60vw;
     background: lightgrey;
     color: black;
     margin: 30px auto;
+    overflow: auto;
 }
+
