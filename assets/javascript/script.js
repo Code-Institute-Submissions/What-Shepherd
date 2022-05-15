@@ -28,4 +28,4 @@ if (score >= 3) {
 document.getElementById("message").innerHTML = message;
 }
 //Name prompt
-var name = window. prompt("What is your name?"); alert("I hope you like my simple quiz, " + name);
+var username = window. prompt("What is your name?"); alert("I hope you like my simple quiz, " + name);
