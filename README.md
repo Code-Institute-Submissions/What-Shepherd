@@ -43,7 +43,7 @@ In the Github repository, navigate to the Settings tab
 From the source section drop-down menu, select the Master Branch
 Once the master branch has been selected, the page will be automatically refreshed with a detail ribbon display to indicate the successful deployment.
 
-Live link - 
+Live link - https://katagaria.github.io/What-Shepherd/
 
 ## Credits
 
