@@ -23,8 +23,27 @@ The Submit button below submits the answers to your selected questions.
 - Scoreboard
 - Pop-up elaborating on correct answer to question
 
-## Testing
+### Testing
 
 - HTML - No errors were returned when using https://validator.w3.org/ 
 - CSS - No errors were returned when using https://jigsaw.w3.org/css-validator/validator
-- JavaScript - 
+- JavaScript - Notes 'fsubmit' and 'username' are unused variables. However, they are being used. Otherwise, passes through https://jshint.com/ with no problems.
+There is only one function in this file.
+It takes no arguments.
+This function contains 13 statements.
+Cyclomatic complexity number for this function is 5.
+
+### Shortcomings of Project
+- Used very basic CSS
+- Only two simple JavaScript features implemented
+
+## Deployment
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+In the Github repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detail ribbon display to indicate the successful deployment.
+
+Live link - 
+
+## Credits
+
